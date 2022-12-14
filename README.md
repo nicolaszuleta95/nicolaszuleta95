@@ -1,5 +1,4 @@
-# Hello, I'm Nicolás Zuleta Sierra
-### Data Analysis | Data Science
+# Hi there, I am Nicolás Zuleta Sierra 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaszuletasierra/)
 
@@ -9,6 +8,8 @@ My motivation is to work on technological solutions that generate value in the w
 
 My main strengths are data cleaning and data analysis with Python and SQL, data visualization with Power BI, and problem-solving.
 
-I also love working with sports-related data.
+I also love working with sports-related data.⚽🏆🏀
 
-Contact: nicolaszuleta95@gmail.com
+Check out my [my portfolio website](https://nicolaszuleta95.super.site/)!
+
+✉️: nicolaszuleta95@gmail.com
