@@ -43,7 +43,7 @@ at scale for one of Latin America's largest banks.
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| 🏦 [Banking Churn Prediction](https://github.com/nicolaszuleta95/banking-churn-prediction) | End-to-end churn model with business impact analysis — 89% AUC | Python, XGBoost, SHAP, Streamlit | [Live Demo](https://banking-churn-nz.streamlit.app) |
+| 🏦 [Banking Churn Prediction](https://github.com/nicolaszuleta95/banking-churn-prediction) | End-to-end churn model with business impact analysis — 87% AUC | Python, XGBoost, SHAP, Streamlit | [Live Demo](https://nicolaszuleta95-banking-churn-prediction.streamlit.app) |
 | 💬 [CX Intelligence — NPS & Sentiment](https://github.com/nicolaszuleta95/cx-intelligence-nps) | NLP-powered customer satisfaction driver analysis | Python, HuggingFace, Plotly | [Live Demo](#) |
 | 🤖 [Financial RAG Assistant](https://github.com/nicolaszuleta95/financial-rag-assistant) | LLM-powered Q&A system over financial documents | LangChain, ChromaDB, FastAPI | [Live Demo](#) |
 | ⚙️ [ML Pipeline + Monitoring](https://github.com/nicolaszuleta95/ml-pipeline-monitoring) | Production ML pipeline with drift detection and CI/CD | MLflow, Docker, Evidently | [Docs](#) |
