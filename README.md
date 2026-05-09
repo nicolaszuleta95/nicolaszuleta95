@@ -4,7 +4,7 @@
 
 I build end-to-end data solutions that translate complex data into business decisions.
 Currently working at Bancolombia in Customer Experience Analytics — 
-designing predictive models, NPS frameworks, and customer segmentation systems
+designing predictive models, NPS and ICX frameworks, and customer segmentation systems
 at scale for one of Latin America's largest banks.
 
 ---
