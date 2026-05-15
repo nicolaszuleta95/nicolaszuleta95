@@ -53,8 +53,8 @@ at scale for one of Latin America's largest banks.
 ## 📈 Currently learning
 
 - LLM fine-tuning and RAG optimization
-- MLOps best practices (MLflow, Evidently, GitHub Actions)
-- Advanced NLP for customer analytics
+- MLOps best practices
+- NLP for customer analytics
 
 ---
 
